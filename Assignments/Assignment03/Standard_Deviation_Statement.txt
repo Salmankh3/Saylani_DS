@@ -1,0 +1,21 @@
+STATEMENT:
+Standard Deviation is the one of the common and essential statistical entities that sum up the central tendencies. It refers to the distance from that mean of an attribute having numerical values. It is also called population standard deviation of a given range of values. 
+Here is how to calculate it:
+
+Step 1: Find the mean of the whole data.
+Step 2: For each data figure, find the square of its distance to the mean of whole data.
+Step 3: Sum each of the the values from Step 2.
+Step 4: Divide by the number of data figures.
+Step 5: Finally, take the square root.
+
+Now, given the data of the employee salaries in the XYZ company, here we have taken out their standard deviation i.e. 9075.98. 
+What this value indicates is the distance from the mean. Let's have an example to get to know it properly.
+
+Let Suppose, we want to have a general idea of the salaries of employees working in this XYZ company.
+Now, at the one hand if we want to find the average salary, what we would do is that take mean or median. But, this doesn't  make sense properly. 
+What if we make it more precise and visible. For this, the Standard Deviation helps alot as we get the proper range of the employee salary.
+
+In this example, we have the mean of the salary as 28.4 K. It is just an average. It doesn't tell us the salary range of an employee here. 
+For getting the range, we have calculated Standard Deviation of salaries. Now we will add to and subtract from the Mean value to get range.
+In this data, if we add and subtract 9075.98 (SD) to the 28.4 K (Mean), we will come to know that the salaries of 90% of the employees are in between 19.3 K and 37.5 K. 
+So, here is how we can have a precise idea of the range of the employee salary and it is almost 85% to 90% chance that if we ask any of the employee his salary, it would lie in the particular range calculated through the Standard Deviation.      
